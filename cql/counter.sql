@@ -1,0 +1,14 @@
+USE retail;
+SELECT count(*) AS inventory_per_store       FROM inventory_per_store;
+SELECT count(*) AS suppliers                 FROM suppliers;
+SELECT count(*) AS receipts_by_store_date    FROM receipts_by_store_date;
+SELECT count(*) AS stores                    FROM stores;
+SELECT count(*) AS receipts_by_credit_card   FROM receipts_by_credit_card;
+SELECT count(*) AS products_by_category_name FROM products_by_category_name;
+SELECT count(*) AS zipcodes                  FROM zipcodes;
+SELECT count(*) AS real_time_analytics       FROM real_time_analytics;
+SELECT count(*) AS receipts                  FROM receipts;
+SELECT count(*) AS products_by_id            FROM products_by_id;
+SELECT count(*) AS products_by_supplier      FROM products_by_supplier;
+SELECT count(*) AS sales_by_state            FROM sales_by_state;
+SELECT count(*) AS sales_by_date             FROM sales_by_date;           

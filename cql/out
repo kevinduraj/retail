@@ -1,0 +1,78 @@
+
+ inventory_per_store
+---------------------
+                   0
+
+(1 rows)
+
+ suppliers
+-----------
+       419
+
+(1 rows)
+
+ receipts_by_store_date
+------------------------
+                      0
+
+(1 rows)
+
+ stores
+--------
+    401
+
+(1 rows)
+
+ receipts_by_credit_card
+-------------------------
+                       0
+
+(1 rows)
+
+ products_by_category_name
+---------------------------
+                      6230
+
+(1 rows)
+
+ zipcodes
+----------
+    81831
+
+(1 rows)
+
+ real_time_analytics
+---------------------
+                   0
+
+(1 rows)
+
+ receipts
+----------
+        0
+
+(1 rows)
+
+ products_by_id
+----------------
+           6229
+
+(1 rows)
+
+ products_by_supplier
+----------------------
+                 6230
+
+(1 rows)
+
+ sales_by_state
+----------------
+              0
+
+(1 rows)
+
+ sales_by_date
+---------------
+             0
+
+(1 rows)
